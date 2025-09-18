@@ -2,7 +2,7 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+- CityArrayAdapter.getView(...) parameter explanation: https://stackoverflow.com/questions/17236654/parameters-of-getview-method-android
 
 ## Verbal Collaboration
 
