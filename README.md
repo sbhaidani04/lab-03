@@ -4,10 +4,11 @@
 
 - CityArrayAdapter.getView(...) parameter explanation: https://stackoverflow.com/questions/17236654/parameters-of-getview-method-android
 - Serializable interface: https://www.geeksforgeeks.org/java/serializable-interface-in-java/
+- Fragment.newInstance: https://stackoverflow.com/questions/36113134/understanding-the-fragment-newinstance-method
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| `Alyssa Wong`    | `ajwong1` |
+| `Rabeea Shahid` | `rabeea`  |
